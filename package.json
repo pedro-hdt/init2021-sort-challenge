@@ -1,0 +1,22 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "MLH INIT 2021 Challenge: Write code to sort a list",
+  "main": "sort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-hdt/init2021-sort-challenge.git"
+  },
+  "author": "Pedro Teixeira <pedro.h.d.teixeira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedro-hdt/init2021-sort-challenge/issues"
+  },
+  "homepage": "https://github.com/pedro-hdt/init2021-sort-challenge#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
